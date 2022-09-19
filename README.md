@@ -15,6 +15,7 @@ The current functionalities of the program are:
 <li>Explore by force bruting a set of parameters for the multilayers, finding the best setups in terms of RIU/SWT and reflectivity dips.</li>
 <li>Simulate the properties of a multilayer using a dynamic index of refraction, which is wavelength dependent and corresponds to a user-defined function.</li>
 <li>More to come!</li>
+<ul>
 
 To do:
 <ul>
