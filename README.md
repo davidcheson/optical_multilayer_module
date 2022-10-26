@@ -1,4 +1,4 @@
-Code from the modulated version of optical_multilayer, used to track bugs and issues for the uploaded PIP version. For the scripted version, go to: https://github.com/davidcheson/optical_multilayer.
+Code from the modulated version of optical_multilayer, used to track bugs and issues for the uploaded PIP version (https://pypi.org/project/optical-multilayer/). For the scripted version, go to: https://github.com/davidcheson/optical_multilayer.
 
 Created by David C. Heson, Jack Liu, and Dr. William M. Robertson over the 2022 MTSU Computational Sciences REU (NSF REU Award #1757493).
 
