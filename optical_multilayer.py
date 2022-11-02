@@ -230,7 +230,7 @@ def multilayer(n_list, dist, mode = 'rp', step = 1000, option_aw = 'a', e_opt = 
 
         stepz = (dtotal + limit)/step
 
-        j = 0
+        j = 1
 
         etotals = np.zeros(shape = (step, 2))
         etotalss = np.zeros(shape = (step, 2))
