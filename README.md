@@ -4,6 +4,8 @@ Created by David C. Heson, Jack Liu, and Dr. William M. Robertson over the 2022 
 
 Codebase created to explore the optical properties of multilayers and optimize their design to achieve maximum sensibilities, using minimas of reflected light and RIU (Refractive Index Unit) as qualitative measurements. A new measurement called SWT (Shift With Thickness) was also introdued, which is defined as the degree or nanometer shift in the location of a Bloch Surface Wave when the bottom layer increases by 10 nanometers in thickness.
 
+An interactive Python notebook tutorial is provided with the code, which will be updated as the code evolves and made more throughout.
+
 Currently, the entirety of the code is written in Python Anaconda 3-5.3.1.
 
 The current functionalities of the program are:
@@ -23,7 +25,6 @@ To do:
 <li>Explore how to do a gradient descent on parameter regions of interest.</li>
 <li>Improve help and context messaging.</li>
 <li>Condense and improve the electric field calculation.</li>
-<li>Create an interactive Jupyter Notebook tutorial for the code.</li>
 </ul>
 
 Please refer any questions, comments, or suggestions to dch376@msstate.edu.
