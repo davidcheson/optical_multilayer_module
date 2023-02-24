@@ -25,6 +25,8 @@ To do:
 <li>Explore how to do a gradient descent on parameter regions of interest.</li>
 <li>Improve help and context messaging.</li>
 <li>Condense and improve the electric field calculation.</li>
+<li>Finish Jupyter Notebook tutorial.</li>
+<li>Improve graphing functionality.</li>
 </ul>
 
 Please refer any questions, comments, or suggestions to dch376@msstate.edu.
